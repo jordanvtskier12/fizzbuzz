@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Jordan Gottlieb
+Credit: just a-me a-mario 
 
 Assignment:
 
